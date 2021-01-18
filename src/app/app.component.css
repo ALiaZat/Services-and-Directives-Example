@@ -1,0 +1,13 @@
+.change {
+    background-color: lightblue;
+}
+ul {
+    list-style-type:none;
+}
+table {
+    width: 200px;
+    height: 40px;
+    overflow:scroll;
+    border: 1px solid black;
+
+}
