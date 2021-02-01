@@ -1,4 +1,4 @@
-In this Exercise, I created directives and service in an angular simple project 
+In this Exercise, I have created directives and service in an angular simple project 
 # DirectiveExc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
